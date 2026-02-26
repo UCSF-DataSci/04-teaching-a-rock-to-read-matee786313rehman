@@ -1,0 +1,6 @@
+Vocabulary richness: 0.080
+Average sentence length (words): 14.74
+Average word length (chars): 4.10
+
+Interpretation:
+Arthur Conan Doyle’s prose shows high lexical richness and longer sentence structure, which is characteristic of formal late-19th-century English writing.
